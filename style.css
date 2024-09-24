@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(39, 38, 38);
+    margin: 0;
+    
+}
+
+.div1 {
+    width: 1358px;
+    height: 311px;
+    background-color: #710000;
+    
+
+}
+
+.div2 {
+    background-image: url("travel-w\ 1.png");
+    width: 213px;
+    height: 204px;
+    position: absolute;
+    top: 209px;
+    left: 68px;
+
+}
